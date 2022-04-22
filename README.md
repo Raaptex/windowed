@@ -1,6 +1,6 @@
 # Windowed
 
-Web app with windows !
+Web app with windows, made without Frameworks (PureJS) !
 
 Demo : https://raaptex.github.io/windowed
 
